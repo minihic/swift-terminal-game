@@ -1,0 +1,11 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+/.swiftpm
+.vscode/launch.json
+.vscode/settings.json
+.swiftstart
+.vscode/launch.json
+.vscode/launch.json
