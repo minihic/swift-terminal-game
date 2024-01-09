@@ -2,12 +2,12 @@
 import PackageDescription
 
 let package = Package(
-	name: "prog2-2023-project",
+	name: "swift-terminal-game",
 	products: [
-		.executable(name: "prog2-2023-project", targets: ["prog2-2023-project"]),
+		.executable(name: "swift-terminal-game", targets: ["swift-terminal-game"]),
 	],
 	dependencies: [],
 	targets: [
-		.executableTarget(name: "prog2-2023-project", dependencies: [])
+		.executableTarget(name: "swift-terminal-game", dependencies: [])
 	]
 )
